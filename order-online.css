@@ -160,7 +160,6 @@ body {
     gap: 4px;
 }
 
-/* --- Menu section styles --- */
 .order-menu {
     background: #fcf5e8;
     padding: 40px 80px;
@@ -298,7 +297,7 @@ footer {
   width: 100%;
 }
 
-/* Footer styles */
+
 .footer-content {
     display: flex;
     justify-content: space-between;
@@ -382,7 +381,7 @@ footer {
     color: #888;
 }
 
-/* Responsive */
+
 @media (max-width: 900px) {
     .footer-content {
         flex-direction: column;
